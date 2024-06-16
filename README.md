@@ -26,7 +26,8 @@ The project leveraged advanced techniques in SQL and data visualization tools su
 - **Analytics Tools**: Applied analytics tools to visualize and interpret the data effectively, enabling stakeholders to make data-driven decisions.
 
 ## Revenue Metrics Dashboard Preview
-[![Revenue Metrics Dashboard]([path_to_your_image.png](https://raw.githubusercontent.com/Plishka/revenue_metrics/4217e1dca21b6016b629472839aad0a245b070d7/Revenue%20Metrics.png))](https://public.tableau.com/app/profile/oleksandr.plishka/viz/RevenueMetrics_17055101609680/Dashboard1)
+
+[![Revenue Metrics Dashboard](https://raw.githubusercontent.com/Plishka/revenue_metrics/4217e1dca21b6016b629472839aad0a245b070d7/Revenue%20Metrics.png)](https://public.tableau.com/app/profile/oleksandr.plishka/viz/RevenueMetrics_17055101609680/Dashboard1){:target="_blank"}
 
 Click the image above to view the interactive Revenue Metrics Dashboard on Tableau's website.
 
