@@ -32,4 +32,4 @@ The project leveraged advanced techniques in SQL and data visualization tools su
 Click the image above to view the interactive Revenue Metrics Dashboard on Tableau's website.
 
 ## Conclusion
-The Revenue Metrics Dashboard provides actionable insights into revenue trends, user behavior, and customer lifetime value, enabling product managers to optimize strategies and maximize financial outcomes. By tracking key metrics and leveraging advanced analytical techniques, this dashboard supports informed decision-making and strategic planning for sustainable growth.
+The Revenue Metrics Dashboard provides actionable insights into revenue trends, user behavior, and customer lifetime value, enabling product managers to optimize strategies and maximize financial outcomes. By tracking key metrics and leveraging advanced analytical techniques, this dashboard supports informed decision-making and strategic planning for sustainable growth
