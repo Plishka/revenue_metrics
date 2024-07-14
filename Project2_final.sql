@@ -62,7 +62,6 @@ calculations as (
 		payment_month,
 		previous_paid_month,
 		first_paid_month,
-		EXTRACT(MONTH FROM payment_month) - EXTRACT(MONTH FROM previous_paid_month) as difference, -- delete
 		user_id,
 		case -- New Users 
 			when payment_month = first_paid_month then user_id
