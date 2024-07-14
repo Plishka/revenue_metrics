@@ -115,8 +115,8 @@ select -- final Table
 	lt_ltv.has_older_device_model,
 	lt_ltv.age,
 	lt_ltv.age_groups
-from calculations -- Тут спробувати змінити і вставити юніон щоб робити джойн після юніон. Зробити джойн із сте чурн юзерс
-left join lt_ltv on calculations.user_id= lt_ltv.user_id -- table with
+from calculations
+left join lt_ltv on calculations.user_id= lt_ltv.user_id 
 order by 
 	1, 2
 
